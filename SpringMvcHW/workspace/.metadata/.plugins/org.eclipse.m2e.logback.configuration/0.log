@@ -1,0 +1,98 @@
+2022-09-29 13:39:51,881 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-09-29 13:42:49,240 [Worker-34: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: SpringMvcHW:SpringMvcHW:0.0.1-SNAPSHOT @ C:\FinalProject\SpringMvcHW\workspace\SpringMvcHW\pom.xml.
+2022-09-29 13:42:49,240 [Worker-30: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: SpringMvcHW:SpringMvcHW:0.0.1-SNAPSHOT @ C:\FinalProject\SpringMvcHW\workspace\SpringMvcHW\pom.xml.
+2022-09-29 13:42:50,183 [Worker-34: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-09-29 13:42:50,184 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\FinalProject\SpringMvcHW\workspace\SpringMvcHW\src\main\resources
+2022-09-29 13:42:50,185 [Worker-34: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-09-29 13:42:50,186 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\FinalProject\SpringMvcHW\workspace\SpringMvcHW\src\test\resources
+2022-09-29 13:42:50,477 [Worker-35: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: SpringMvcHW:SpringMvcHW:0.0.1-SNAPSHOT @ C:\FinalProject\SpringMvcHW\workspace\SpringMvcHW\pom.xml.
+2022-09-29 13:42:51,332 [Worker-31: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-09-29 13:42:51,333 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\FinalProject\SpringMvcHW\workspace\SpringMvcHW\src\main\resources
+2022-09-29 13:42:51,334 [Worker-31: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-09-29 13:42:51,335 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\FinalProject\SpringMvcHW\workspace\SpringMvcHW\src\test\resources
+2022-09-29 13:42:59,259 [Worker-33: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-09-29 13:42:59,388 [Worker-33: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: SpringMvcHW:SpringMvcHW:0.0.1-SNAPSHOT @ C:\FinalProject\SpringMvcHW\workspace\SpringMvcHW\pom.xml.
+2022-09-29 13:42:59,787 [Worker-33: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringMvcHW/src/main/java
+2022-09-29 13:42:59,788 [Worker-33: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringMvcHW/src/test/java
+2022-09-29 13:43:00,100 [Worker-33: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for SpringMvcHW
+2022-09-29 13:43:00,104 [Worker-33: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2022-09-29 13:43:00,332 [Worker-9: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-09-29 13:43:00,333 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\FinalProject\SpringMvcHW\workspace\SpringMvcHW\src\main\resources
+2022-09-29 13:43:00,334 [Worker-9: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-09-29 13:43:00,335 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\FinalProject\SpringMvcHW\workspace\SpringMvcHW\src\test\resources
+2022-09-29 13:43:00,335 [Worker-9: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of SpringMvcHW
+2022-09-29 13:43:00,336 [Worker-9: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for SpringMvcHW
+2022-09-29 13:43:00,340 [Worker-9: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.maven.plugins:maven-clean-plugin:jar:2.5 is missing, no dependency information available
+2022-09-29 13:43:00,343 [Worker-9: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-09-29 13:44:33,705 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-09-29 13:48:18,816 [Worker-7: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-09-29 13:48:18,818 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\FinalProject\SpringMvcHW\workspace\SpringMvcHW\src\main\resources
+2022-09-29 13:48:18,819 [Worker-7: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-09-29 13:48:18,820 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\FinalProject\SpringMvcHW\workspace\SpringMvcHW\src\test\resources
+2022-09-29 13:56:26,420 [Worker-29: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-09-29 13:56:26,618 [Worker-29: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: SpringMvcHW:SpringMvcHW:0.0.1-SNAPSHOT @ C:\FinalProject\SpringMvcHW\workspace\SpringMvcHW\pom.xml.
+2022-09-29 13:56:27,161 [Worker-29: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringMvcHW/src/main/java
+2022-09-29 13:56:27,161 [Worker-29: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringMvcHW/src/test/java
+2022-09-29 13:56:27,376 [Worker-29: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for SpringMvcHW
+2022-09-29 13:56:27,380 [Worker-29: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2022-09-29 13:56:27,614 [Worker-30: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-09-29 13:56:27,615 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\FinalProject\SpringMvcHW\workspace\SpringMvcHW\src\main\resources
+2022-09-29 13:56:27,616 [Worker-30: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-09-29 13:56:27,617 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\FinalProject\SpringMvcHW\workspace\SpringMvcHW\src\test\resources
+2022-09-29 13:56:27,617 [Worker-30: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of SpringMvcHW
+2022-09-29 13:56:27,618 [Worker-30: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for SpringMvcHW
+2022-09-29 13:56:27,620 [Worker-30: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.maven.plugins:maven-clean-plugin:jar:2.5 is missing, no dependency information available
+2022-09-29 13:56:27,623 [Worker-30: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-09-29 13:57:58,304 [Worker-32: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-09-29 13:57:58,305 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\FinalProject\SpringMvcHW\workspace\SpringMvcHW\src\main\resources
+2022-09-29 13:57:58,306 [Worker-32: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-09-29 13:57:58,306 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\FinalProject\SpringMvcHW\workspace\SpringMvcHW\src\test\resources
+2022-09-29 14:00:19,736 [Worker-31: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-09-29 14:00:19,737 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\FinalProject\SpringMvcHW\workspace\SpringMvcHW\src\main\resources
+2022-09-29 14:00:19,737 [Worker-31: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-09-29 14:00:19,738 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\FinalProject\SpringMvcHW\workspace\SpringMvcHW\src\test\resources
+2022-09-29 14:00:59,249 [Worker-32: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-09-29 14:00:59,250 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\FinalProject\SpringMvcHW\workspace\SpringMvcHW\src\main\resources
+2022-09-29 14:00:59,250 [Worker-32: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-09-29 14:00:59,251 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\FinalProject\SpringMvcHW\workspace\SpringMvcHW\src\test\resources
+2022-09-29 14:01:01,868 [Worker-31: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-09-29 14:01:01,869 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\FinalProject\SpringMvcHW\workspace\SpringMvcHW\src\main\resources
+2022-09-29 14:01:01,869 [Worker-31: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-09-29 14:01:01,870 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\FinalProject\SpringMvcHW\workspace\SpringMvcHW\src\test\resources
+2022-09-29 14:01:26,239 [Worker-31: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-09-29 14:01:26,240 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\FinalProject\SpringMvcHW\workspace\SpringMvcHW\src\main\resources
+2022-09-29 14:01:26,241 [Worker-31: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-09-29 14:01:26,242 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\FinalProject\SpringMvcHW\workspace\SpringMvcHW\src\test\resources
+2022-09-29 14:01:38,793 [Worker-32: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-09-29 14:01:38,794 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\FinalProject\SpringMvcHW\workspace\SpringMvcHW\src\main\resources
+2022-09-29 14:01:38,794 [Worker-32: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-09-29 14:01:38,795 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\FinalProject\SpringMvcHW\workspace\SpringMvcHW\src\test\resources
+2022-09-29 14:03:31,326 [Worker-32: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-09-29 14:03:31,327 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\FinalProject\SpringMvcHW\workspace\SpringMvcHW\src\main\resources
+2022-09-29 14:03:31,327 [Worker-32: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-09-29 14:03:31,328 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\FinalProject\SpringMvcHW\workspace\SpringMvcHW\src\test\resources
+2022-09-29 14:04:18,070 [Worker-29: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-09-29 14:04:18,070 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\FinalProject\SpringMvcHW\workspace\SpringMvcHW\src\main\resources
+2022-09-29 14:04:18,070 [Worker-29: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-09-29 14:04:18,070 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\FinalProject\SpringMvcHW\workspace\SpringMvcHW\src\test\resources
+2022-09-29 14:21:44,761 [Worker-35: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-09-29 14:21:44,762 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\FinalProject\SpringMvcHW\workspace\SpringMvcHW\src\main\resources
+2022-09-29 14:21:44,763 [Worker-35: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-09-29 14:21:44,764 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\FinalProject\SpringMvcHW\workspace\SpringMvcHW\src\test\resources
+2022-09-29 14:23:15,406 [Worker-32: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-09-29 14:23:15,406 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\FinalProject\SpringMvcHW\workspace\SpringMvcHW\src\main\resources
+2022-09-29 14:23:15,407 [Worker-32: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-09-29 14:23:15,407 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\FinalProject\SpringMvcHW\workspace\SpringMvcHW\src\test\resources
+2022-09-29 14:23:29,124 [Worker-35: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-09-29 14:23:29,124 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\FinalProject\SpringMvcHW\workspace\SpringMvcHW\src\main\resources
+2022-09-29 14:23:29,125 [Worker-35: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-09-29 14:23:29,126 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\FinalProject\SpringMvcHW\workspace\SpringMvcHW\src\test\resources
+2022-09-29 14:23:34,064 [Worker-32: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-09-29 14:23:34,064 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\FinalProject\SpringMvcHW\workspace\SpringMvcHW\src\main\resources
+2022-09-29 14:23:34,065 [Worker-32: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-09-29 14:23:34,065 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\FinalProject\SpringMvcHW\workspace\SpringMvcHW\src\test\resources
+2022-09-29 14:23:37,385 [Worker-34: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-09-29 14:23:37,385 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\FinalProject\SpringMvcHW\workspace\SpringMvcHW\src\main\resources
+2022-09-29 14:23:37,386 [Worker-34: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS950 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-09-29 14:23:37,386 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\FinalProject\SpringMvcHW\workspace\SpringMvcHW\src\test\resources
+2022-10-07 12:07:13,644 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.

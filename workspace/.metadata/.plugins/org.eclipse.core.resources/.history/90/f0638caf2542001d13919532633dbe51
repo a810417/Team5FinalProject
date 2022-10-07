@@ -1,0 +1,19 @@
+<%@ page language="java" contentType="text/html; charset=BIG5"
+    pageEncoding="BIG5"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="BIG5">
+<title>Find Member Page</title>
+</head>
+<body>
+<div class="container">
+<h3>搜尋會員</h3>
+<form action="${contextRoot}/findById.controller" method="get">
+<label>請輸入ID: </label>
+<input type="text" name="id"></input>
+<input type="submit">Submit</input>
+</form>
+</div>
+</body>
+</html>

@@ -1,0 +1,27 @@
+1664689566598	Move compilation unit
+1664689623384	Move compilation unit
+1664689637445	Move compilation units
+1664689643336	Delete elements
+1664689722268	Rename resource 'backend'
+1664689805882	Rename resource 'main.jsp'
+1664690254972	Delete element
+1664691142396	Move compilation unit
+1664691215981	Delete element
+1664691501180	Delete element
+1664691800848	Delete element
+1664691940038	Extract local variable 'newMem'
+1664694692205	Delete element
+1664695443911	Extract local variable 'optional'
+1664695559117	Extract local variable 'mem'
+1664697293252	Extract local variable 'mem'
+1664698146078	Extract local variable 'mem'
+1664698353371	Extract local variable 'presentMem'
+1664698570491	Extract local variable 'tempMem'
+1664698681694	Extract local variable 'newMem'
+1664699235065	Extract local variable 'findMem'
+1664792644201	Extract local variable 'createQuery'
+1664792669568	Extract local variable 'list'
+1664793148037	Extract local variable 'list'
+1664793215326	Copy file
+1664793366134	Copy file
+1664881441652	Extract local variable 'memPhoto'
