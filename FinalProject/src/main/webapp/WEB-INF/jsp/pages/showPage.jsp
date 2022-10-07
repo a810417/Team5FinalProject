@@ -1,0 +1,41 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+	pageEncoding="UTF-8"%>
+<%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c"%>
+<%@ taglib uri="http://java.sun.com/jsp/jstl/fmt" prefix="fmt"%>
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Show Member Page</title>
+<c:set var="contextRoot" value="${pageContext.request.contextPath}" />
+</head>
+<body>
+
+<label>id: </label>
+<input value="${mem.id}"/>
+<br/>
+<label>account: </label>
+<input value="${mem.account}"/>
+<br/>
+<label>password: </label>
+<input value="${mem.password}"/>
+<br/>
+<label>nickname: </label>
+<input value="${mem.nickname}"/>
+<br/>
+<label>email: </label>
+<input value="${mem.email}"/>
+<br/>
+<label>create_at: </label>
+<input value="${mem.create_at}"/>
+<br/>
+<label>photo: </label>
+<img alt="" src="${contextRoot}/downloadImage/${mem.id}">
+<br/>
+<br/>
+<br/>
+<a href="${contextRoot}/backend.controller">返回後台首頁</a>
+
+</body>
+</html>

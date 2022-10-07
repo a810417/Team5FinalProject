@@ -1,0 +1,52 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+	pageEncoding="UTF-8"%>
+<%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c"%>
+<%@ taglib uri="http://java.sun.com/jsp/jstl/fmt" prefix="fmt"%>
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+<meta charset="UTF-8">
+<title>Insert Member</title>
+<c:set var="contextRoot" value="${pageContext.request.contextPath}" />
+<link href="${contextRoot}/css/bootstrap.min.css" rel="stylesheet">
+</head>
+
+<body>
+<jsp:include page="../components/navbar.jsp"></jsp:include>
+<div class="container">
+	<h3>新增會員</h3>
+	<form method="POST" action="insertMem.controller" enctype="multipart/form-data"
+		modelAttribute="member">
+		<table>
+			<tr>
+				<td>Account: </td>
+				<td><input type="text" name="account"></input></td>
+			</tr>
+			<tr>
+				<td>Password: </td>
+				<td><input type="text" name="password"></input></td>
+			</tr>
+			<tr>
+				<td>Nickname: </td>
+				<td><input type="text" name="nickname"></input></td>
+			</tr>
+			<tr>
+				<td>Email: </td>
+				<td><input type="text" name="email"></input></td>
+			</tr>
+			<tr>
+				<td>Photo: </td>
+				<td><input type="file" name="photo" /></td>
+			</tr>
+			<tr>
+				<td colspan="2"><button value="send">Send</button></td>
+			</tr>
+		</table>
+
+	</form>
+	</div>
+</body>
+
+</html>
